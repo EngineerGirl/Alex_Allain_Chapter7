@@ -4,8 +4,7 @@
  Author      : Siddhata Patil
  Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
  Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
- Question    : Write a menu program that lets the user select from a list of options, and if the input is not one
-               of the options, reprint the list
+ Question    : Implement the source code that turns numbers into English text.
  ==============================================================================================================================
  */
 #include <iostream>
