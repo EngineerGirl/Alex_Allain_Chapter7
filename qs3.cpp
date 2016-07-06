@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs3.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Design a program that finds all numbers from 1 to 1000 whose prime factors, when added
                together, sum up to a prime number (for example, 12 has prime factors of 2, 2, and 3, which
                sum to 7, which is prime). Implement the code for that algorithm.
